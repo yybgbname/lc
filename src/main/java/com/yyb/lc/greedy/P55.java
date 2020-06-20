@@ -1,4 +1,4 @@
-package com.yyb.lc.greed;
+package com.yyb.lc.greedy;
 
 public class P55 {
     public static void main(String[] args) {
