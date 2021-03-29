@@ -1,4 +1,4 @@
-package com.yyb.common.structure;
+package com.yyb.structure;
 
 public class ListNode {
     public int val;

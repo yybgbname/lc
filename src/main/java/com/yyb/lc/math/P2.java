@@ -1,6 +1,6 @@
 package com.yyb.lc.math;
 
-import com.yyb.common.structure.ListNode;
+import com.yyb.structure.ListNode;
 
 public class P2 {
 
